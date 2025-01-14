@@ -1,5 +1,4 @@
 # CPP-learning-life-started-from-zero
 
-# 参考课程：
-        视频：https://www.bilibili.com/video/BV14h41187FZ 
-        仓库：https://github.com/stdrc/modern-cmake-by-example.git
+# 参考课程：CS106L:http://web.stanford.edu/class/cs106l/
+# 练习项目：aut courseworks : https://github.com/courseworks
